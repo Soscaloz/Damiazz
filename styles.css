@@ -1,0 +1,63 @@
+/* Seksyen 1 */
+.seksyen1{
+    background-image: url(Pink\ Bakery\ Store\ LinkedIn\ Banner\ \ \(4\).png);
+    background-position: 0rem;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-cake{
+    color: #DD4A48;
+}
+
+.tulisanputih{
+    color: #faf8f8;
+}
+
+/* Seksyen 2 */
+
+.seksyen2{
+    background-color: #E1E5EA;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+.icon{
+    color: #0C005A;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+.seksyen3{
+    background-color: #F5F5F5;
+    padding: 7% 15%;
+}
+
+/* Seksyen 5 */
+
+.seksyen5{
+    background-color: #DFDFDE;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: #0c0c0c;
+}
+
+/* footer */
+.footer{
+    background-color:#A7BBC7;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: #0C005A;
+}
+h1{
+    font-family: 'Updock', cursive;
+}
